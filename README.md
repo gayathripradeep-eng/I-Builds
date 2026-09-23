@@ -1,0 +1,117 @@
+# 👋 Hi, I'm GAYATHRI P!
+
+### 🎓 Electronics & Communication Engineering Student | 💡 Creative Problem Solver | 🌍 Curious Learner
+
+> **Exploring beyond the circuit — one idea, one problem, and one new skill at a time.**
+
+I'm a **B.Tech Electronics & Communication Engineering student at Government Engineering College Barton Hill**, passionate about learning, experimenting, and understanding how things work.
+
+I enjoy solving problems, exploring different fields, and combining **logic with creativity**. From programming and electronics to robotics and emerging technologies, I'm still discovering where my curiosity will take me. 🚀
+
+---
+
+## 🧭 My Learning Journey
+
+```mermaid
+flowchart LR
+    A[💭 Curiosity] --> B[🔍 Explore]
+    B --> C[📚 Learn]
+    C --> D[🧠 Think]
+    D --> E[🧩 Solve]
+    E --> F[🛠️ Build]
+    F --> G[✨ Create]
+    G --> A
+```
+
+---
+
+## 🎓 Education
+
+| Period             | Institution                                | Qualification                                    |
+| ------------------ | ------------------------------------------ | ------------------------------------------------ |
+| **2026 – 2030**    | Government Engineering College Barton Hill | B.Tech — Electronics & Communication Engineering |
+| **Completed 2026** | GGHSS Cotton Hill, Vazhuthacaud            | Higher Secondary Education                       |
+
+---
+
+## 💻 Technical Skills
+
+| Category           | Skills                                               |
+| ------------------ | ---------------------------------------------------- |
+| 👩‍💻 Programming  | C++ · HTML · CSS                                     |
+| 🧩 Problem Solving | Logical Thinking · Data Structures · Basic Debugging |
+| 🔎 Research        | Information Gathering · Analysis                     |
+| 🎨 Design          | Canva                                                |
+| 📝 Documentation   | Technical Documentation                              |
+| 🎤 Communication   | Technical Presentation · Communication               |
+
+> *Currently strengthening my fundamentals and expanding my technical toolkit.*
+
+---
+
+## 🤖 Areas I'm Curious About
+
+🔹 **Robotics & Automation**
+🔹 **Embedded Systems & Microcontrollers**
+🔹 **VLSI & Digital Electronics**
+🔹 **Software Development & Programming**
+🔹 **Emerging Technologies**
+🔹 **Creative Problem Solving & Innovation**
+
+---
+
+## 📚 Currently Learning
+
+```text
+C++                 ███████░░░  Deepening
+Python              ████░░░░░░  Exploring
+Robotics            ███░░░░░░░  Exploring
+Embedded Systems    ███░░░░░░░  Exploring
+Digital Electronics █████░░░░░░  Building foundations
+```
+
+*These represent my current learning journey, not fixed skill levels.*
+
+---
+
+## 🌟 Experience & Activities
+
+* 🏛️ **ISTE Member** — Government Engineering College Barton Hill
+* 💻 **Hackathon Participant** — Smart India Hackathon (SIH) - College-Level Selection
+* 🧠 **Gifted Children Programme** — Participated in activities focused on analytical thinking and creativity
+* ➗ **Mathematics Club** — Engaged in mathematical and problem-solving activities
+* 💡 **Little KITEs** — Explored technology, digital tools, and creative learning
+
+---
+
+## 🌍 Beyond Technology
+
+My curiosity isn't limited to engineering.
+
+I enjoy learning about **history, economics, science, global affairs, society, and the ideas that shape the world around us.**
+
+For me, learning isn't always about getting a certificate or completing a course — sometimes it's simply about asking:
+
+> **"Why does this work the way it does?"**
+
+---
+
+## 🚀 Future Goals
+
+I aspire to become a versatile technology professional with strong foundations in **electronics, programming, and problem-solving**.
+
+I'm looking forward to exploring **robotics, embedded systems, VLSI, and software**, gaining practical experience, and eventually building solutions that bring **hardware, software, and creativity together.**
+
+
+---
+
+## 🔗 Let's Connect
+
+💼 **LinkedIn:** [My LinkedIn Profile](https://in.linkedin.com/in/gayathri-p-a26919438)
+🐙 **GitHub:** [My GitHub Profile](https://github.com/gayathripradeep-eng)
+
+---
+
+### ✨ *Curious mind. Creative ideas. Continuous learning.*
+
+**Thanks for stopping by! 🚀**
