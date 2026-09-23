@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
-
-# 👋 Hi, I'm Gayu!
 # 👋 Hi, I'm GAYATHRI P!
 
 ### 🎓 Electronics & Communication Engineering Student | 💡 Creative Problem Solver | 🌍 Curious Learner
