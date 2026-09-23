@@ -1,4 +1,4 @@
-# Hi, I'm Gayu! 👋
+# Hi, I'm GAYATHRI P! 👋
 
 I'm an Electronics & Communication Engineering student at Government Engineering College Barton Hill, driven by curiosity, creativity, and a passion for problem-solving.
 
@@ -61,4 +61,4 @@ I aspire to grow into a versatile technology professional with strong foundation
 ## 🔗 Connect With Me
 
 * 💼 **LinkedIn:** [My LinkedIn Profile](https://in.linkedin.com/in/gayathri-p-a26919438)
-* 🐙 **GitHub:** [My GitHub Profile]((https://github.com/gayathripradeep-eng))
+* 🐙 **GitHub:** [My GitHub Profile](https://github.com/gayathripradeep-eng)
