@@ -109,6 +109,7 @@ I'm looking forward to exploring **robotics, embedded systems, VLSI, and softwar
 
 💼 **LinkedIn:** [My LinkedIn Profile](https://in.linkedin.com/in/gayathri-p-a26919438)
 🐙 **GitHub:** [My GitHub Profile](https://github.com/gayathripradeep-eng)
+📧 **Email:** [My G-mail](gargyipradeep@gmail.com)
 
 ---
 
