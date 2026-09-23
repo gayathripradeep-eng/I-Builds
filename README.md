@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Beyond the Circuit">
+  <img src="./beyond-the-circuit-banner.png">
 </p>
 
 # 👋 Hi, I'm GAYATHRI P!
